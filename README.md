@@ -8034,7 +8034,7 @@ style.textContent = `
 /* Media Queries for Mobile Devices */
 @media (max-width: 480px) {
   .job-item {
-    width: 80vw;
+    width: 85vw;
     padding: 12px;
     border-radius: 12px;
     margin-bottom: 12px;
@@ -8314,8 +8314,7 @@ style.textContent = `
 
 @media (min-width: 481px) {
   .automotive-response {
-    width: 80vw;
-    margin-left: 75px; 
+    width: 85vw;
   }
   
   .vehicle-item {
