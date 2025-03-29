@@ -170,7 +170,7 @@ body {
     align-items: flex-start;
     gap: 12px;
     margin-bottom: 16px;
-    width: 40%;
+    width: 25%;
 }
 
 .welcome-avatar {
