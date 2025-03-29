@@ -171,6 +171,7 @@ body {
     gap: 12px;
     margin-bottom: 16px;
     width: 20%;
+    max-width: 100%;
 }
 
 .welcome-avatar {
